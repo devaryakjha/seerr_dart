@@ -1,0 +1,19 @@
+name: seerr_dart
+description: "Dart client bindings for the Jellyseerr API (generated via OpenAPI)."
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  dio: ^5.7.0
+  built_value: ^8.9.0
+  built_collection: ^5.1.1
+  one_of: ^1.5.0
+  one_of_serializer: ^1.5.0
+
+dev_dependencies:
+  build_runner: ^2.4.0
+  built_value_generator: ^8.9.0
+  test: ^1.24.0
