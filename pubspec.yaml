@@ -1,7 +1,16 @@
 name: seerr_dart
 description: "Dart client bindings for the Jellyseerr API (generated via OpenAPI)."
-version: 0.0.1
-homepage:
+version: 0.1.0
+homepage: https://github.com/seerr-team/seerr_dart
+repository: https://github.com/seerr-team/seerr_dart
+issue_tracker: https://github.com/seerr-team/seerr_dart/issues
+documentation: https://github.com/seerr-team/seerr/blob/main/jellyseerr-api.yml
+topics:
+  - jellyseerr
+  - openapi
+  - dio
+  - rest
+  - api-client
 
 environment:
   sdk: ^3.0.0
